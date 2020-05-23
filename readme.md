@@ -19,9 +19,10 @@
 
 
 
-@wjkwjk 《2020复旦计算机专硕380考研经验帖》[初试](https://blog.csdn.net/qq_38841618/article/details/106255165)
+@wjkwjk 《2020复旦计算机专硕380考研经验帖》csdn :[初试](https://blog.csdn.net/qq_38841618/article/details/106255165)
  [复试](https://blog.csdn.net/qq_38841618/article/details/106285714)
 
+@qq [《参加 2020 考研是一种怎样的体验？ - 知乎》](https://www.zhihu.com/question/362136492/answer/1240852897)
 
 @鲸11111
 [《2020复旦计专368上岸经验帖》](http://cskaoyan.com/thread-659581-1-1.html)
