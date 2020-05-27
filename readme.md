@@ -84,6 +84,10 @@ PS：有其他问题可以提issue（提前练习CS学生必备技能），或�
 [《2020复旦大学机械跨考计专二战345分经验分享》](http://cskaoyan.com/thread-659456-1-1.html)
 
 
+@benull
+[《2020双非二战复旦计算机专硕392经验贴》](http://www.cskaoyan.com/thread-659693-1-1.html)
+
+
 ## 软院
 
 ### 学硕
